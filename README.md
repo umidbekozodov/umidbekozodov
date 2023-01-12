@@ -11,7 +11,6 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=umidbekozodov&show_icons=true&theme=synthwave" alt="Leverow :: Profile Stats" /></p>
 
 ### ☕ Get in touch
-- LinkedIn: <a href = "https://www.linkedin.com/in/leverow/">Azamjon Bakhriddinov</a>
-- Telegram: <a href = "https://t.me/leverow">Leverow</a>
-- Website: <a href = "https://leverow.uz">Leverow.uz</a>
+- LinkedIn: <a href = "https://www.linkedin.com/in/umidbek-ozodov-backend-dotnet/">Umidbek Ozodov</a>
+- Telegram: <a href = "https://t.me/OzodovUmidbek">@ozodovumidbek</a>
 <br>

@@ -4,11 +4,11 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=leverow&theme=dark)](https://github.com/leverow/)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leverow&text_color=ffffff&text_bold=true&title_color=e3289c&bg_color=2b213a&card_width=495px&hide=html,css)](https://github.com/leverow/)</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=umidbekozodov&theme=dark)](https://github.com/umidbekozodov/)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umidbekozodov&text_color=ffffff&text_bold=true&title_color=e3289c&bg_color=2b213a&card_width=495px&hide=html,css)](https://github.com/umidbekozodov/)</div>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Leverow&show_icons=true&theme=synthwave" alt="Leverow :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=umidbekozodov&show_icons=true&theme=synthwave" alt="umidbekozodov :: Profile Stats" /></p>
 
 ### ☕ Get in touch
 - LinkedIn: <a href = "https://www.linkedin.com/in/umidbek-ozodov-backend-dotnet/">Umidbek Ozodov</a>

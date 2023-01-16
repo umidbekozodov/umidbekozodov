@@ -2,14 +2,11 @@
 <img src="./umidbekozodov.png" alt="umidbekozodov"/>
 <a href="https://github.com/pattisoj"><img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=25&duration=4500&color=BCB1F7&center=true&width=500&lines=Hi,+I'm+Umidbek+Ozodov+👋;.Net+Enthusiast;Nice+to+meet+you!" /> </a> </p>
 
-<div align="center">
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC4dOcayF-8MdeyK3L5kGCvg?style=social"> <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC4dOcayF-8MdeyK3L5kGCvg?style=social">
-  
  <br/><br/>
 
-<a href="https://t.me/AbdulazizDeveloper"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
-<a href="https://www.linkedin.com/in/abdulaziz-abduqaxxorov-600b33237/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
-<a href="https://instagram.com/Abdulaziz.Abduqaxxorov"><img alt="Instagram" src="https://img.shields.io/badge/instagram-gray?style=flat-square&logo=instagram"></a>
+<a href="https://t.me/UmidbekOzodov"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
+<a href="https://www.linkedin.com/in/umidbek-ozodov-backend-dotnet/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/Ozodov_Umidbek/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-gray?style=flat-square&logo=instagram"></a>
 
 [![](https://komarev.com/ghpvc/?username=AbdulazizCoding&color=orange&label=Profile%20Views)](https://github.com/AbdulazizCoding/AbdulazizCoding)
 [![](https://img.shields.io/github/followers/AbdulazizCoding?label=GitHub%20Followers)](https://github.com/AbdulazizCoding)

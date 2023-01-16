@@ -2,6 +2,7 @@
 <img src="./umidbekozodov.png" alt="umidbekozodov"/>
 <a href="https://github.com/pattisoj"><img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=25&duration=4500&color=BCB1F7&center=true&width=500&lines=Hi,+I'm+Umidbek+Ozodov+👋;.Net+Enthusiast;Nice+to+meet+you!" /> </a> </p>
 
+<div align="center">
  <br/><br/>
 
 <a href="https://t.me/UmidbekOzodov"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
